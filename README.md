@@ -1,6 +1,8 @@
 # Calibre-Search-Alfred
 ### search your e-books by Alfred 使用 Alfred 搜索 calibre 中的电子书
 
+### Click here to DOWNLOAD 点此下载
+### https://github.com/gzr2017/Calibre-Search-Alfred/releases/tag/0.0.1
 ## Instruction 使用指南
 
 * ### Click Script Filter 点击 Script Filter
